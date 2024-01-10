@@ -28,69 +28,70 @@ Proje kitapların takibini kolaylaştırmak veya öğrencilerin / öğretim gör
 
 -**/AbstractClass**
   - **/proje1**
-    - `cDurumGetir.js`
-    - `cListele.js`
+    - `cDurumGetir.java`
+    - `cListele.java`
 - **/AbstractFactory**
   - **/proje1**
-    - `cIsimCagirma.js`
-    - `cIsimCagirmaFactory.js`
-    - `cNakitOdeme.js`
-    - `cKrediKartOdeme.js`
-    - `cOdemeKrediKartFactory.js` 
-    - `cOdemeNakitFactory.js`
-    - `cUyeIsimCagirma.js`
-    - `cUyeIsimCagirmaFactory.js`
-    - `Isim.js`
-    - `IsimFactory.js`
-    - `Odeme.js`
-    - `OdemeFactory.js`
+    - `cIsimCagirma.java`
+    - `cIsimCagirmaFactory.java`
+    - `cNakitOdeme.java`
+    - `cKrediKartOdeme.java`
+    - `cOdemeKrediKartFactory.java` 
+    - `cOdemeNakitFactory.java`
+    - `cUyeIsimCagirma.java`
+    - `cUyeIsimCagirmaFactory.java`
+    - `Isim.java`
+    - `IsimFactory.java`
+    - `Odeme.java`
+    - `OdemeFactory.java`
 - **/Bridge**
   - **/proje1**
-    - `cVeritabani.js`
-    - `Database.js`
-    - `DatabasePlatform.js`
-    - `DBConnect.js`
+    - `cVeritabani.java`
+    - `Database.java`
+    - `DatabasePlatform.java`
+    - `DBConnect.java`
 - **/Singleton**
   - **/proje1**
-    - `cKitapSingleton.js`
-    - `cSingleton.js`
-    - `cSingletonKullanici.js`
+    - `cKitapSingleton.java`
+    - `cSingleton.java`
+    - `cSingletonKullanici.java`
 - **/State**
   - **/Strategy**
     - **/proje1**
-       - `cDurumKitapState.js`
-       - `cFiyatSiralama.js`
-       - `cKitapAdinaGoreSiralama.js`
-       - `cKitapTarihineGoreSiralama.js`
-       - `cSiralama.js` 
-       - `KitapSiralamaStrategy.js`
-       - `KitapState.js`
+       - `cDurumKitapState.java`
+       - `cKitapSiralamaState.java`
+       - `cFiyatSiralama.java`
+       - `cKitapAdinaGoreSiralama.java`
+       - `cKitapTarihineGoreSiralama.java`
+       - `cSiralama.java` 
+       - `KitapSiralamaStrategy.java`
+       - `KitapState.java`
 
 
 - **/src**
   - **/proje1**
-    - `cAnaSayfa.js`
-    - `cGiris.js`
-    - `cHaraketler.js`
-    - `cKitap.js`
-    - `cKullanicilar.js`
-    - `cOdunc.js`
-    - `cOduncTakip.js`
-    - `cUyeler.js`
-    - `frmAlinanKitaplar.js`
-    - `frmGiris.js`
-    - `frmKitapEkle.js`
-    - `frmKitapGoruntule.js`
-    - `frmKullaniciAnaSayfa.js`
-    - `frmKullaniciEkle.js`
-    - `frmKullaniciIslemleri.js`
-    - `frmOduncTakip.js`
-    - `frmOduncVer.js`
-    - `frmUyeAnaSayfa.js`
-    - `frmUyeEkle.js`
-    - `frmUyeHesapIslemleri.js`
-    - `frmUyeIslemleri.js`
-    - `frmUyeKitaplar.js`
+    - `cAnaSayfa.java`
+    - `cGiris.java`
+    - `cHaraketler.java`
+    - `cKitap.java`
+    - `cKullanicilar.java`
+    - `cOdunc.java`
+    - `cOduncTakip.java`
+    - `cUyeler.java`
+    - `frmAlinanKitaplar.java`
+    - `frmGiris.java`
+    - `frmKitapEkle.java`
+    - `frmKitapGoruntule.java`
+    - `frmKullaniciAnaSayfa.java`
+    - `frmKullaniciEkle.java`
+    - `frmKullaniciIslemleri.java`
+    - `frmOduncTakip.java`
+    - `frmOduncVer.java`
+    - `frmUyeAnaSayfa.java`
+    - `frmUyeEkle.java`
+    - `frmUyeHesapIslemleri.java`
+    - `frmUyeIslemleri.java`
+    - `frmUyeKitaplar.java`
 
 
 
